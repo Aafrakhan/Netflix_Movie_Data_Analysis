@@ -1,4 +1,4 @@
-# Netflix Movie Data Analysis using Python
+# Netflix Movie Data Analysis 
 
 ## Overview
 An end-to-end Exploratory Data Analysis (EDA) project on Netflix movie data using Python. The dataset was cleaned and processed to ensure accuracy and consistency, followed by detailed analysis to uncover trends in genre popularity, audience ratings, and release patterns over the years.
