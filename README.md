@@ -28,7 +28,3 @@ Columns include: Release_Date, Title, Overview, Popularity, Vote_Count, Vote_Ave
 - **Lowest popularity movie:** *The United States, Thread* (Genres: Music, Drama, War, Sci-Fi, Historic)
 - **Most active filming year:** 1970 recorded the highest number of filmed movies in the dataset
 
-## Files
-- `Netflix_Movie_Data_Analysis_EDA.ipynb` – Jupyter notebook with full EDA workflow
-- `README.md` – Project documentation
-
